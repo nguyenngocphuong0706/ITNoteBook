@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">IT Formula Notebook</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_search">Tìm kiếm</string>
+    <string name="nav_favorites">Yêu thích</string>
+    <string name="nav_settings">Cài đặt</string>
+    <string name="nav_saved">Đã lưu</string>
+    <string name="nav_history">Lịch sử</string>
+
+    <!-- Common Actions -->
+    <string name="delete">Xóa</string>
+    <string name="cancel">Hủy</string>
+    <string name="save">Lưu</string>
+    <string name="create">Tạo mới</string>
+    <string name="discard">Hủy bỏ</string>
+    <string name="clear">Xóa</string>
+    <string name="clear_all">Xóa tất cả</string>
+    <string name="copy">Sao chép</string>
+    <string name="see_all">Xem tất cả</string>
+    <string name="version">v1.0</string>
+
+    <!-- Home Screen -->
+    <string name="home_dashboard">Tổng quan</string>
+    <string name="search_formulas_hint">Tìm kiếm công thức, cú pháp, từ khóa</string>
+    <string name="recently_viewed">Đã xem gần đây</string>
+    <string name="explore_topics">Chủ đề</string>
+    <string name="no_recent_title">Chưa có công thức nào xem gần đây</string>
+    <string name="no_recent_desc">Các công thức bạn đã xem sẽ xuất hiện tại đây</string>
+    <string name="heatmap_title">📊 Hoạt động học tập</string>
+    <string name="heatmap_streak">%d ngày liên tiếp 🔥</string>
+    <string name="start_streak_today">Bắt đầu chuỗi học tập ngay! 🔥</string>
+    <string name="heatmap_less">Ít</string>
+    <string name="heatmap_more">Nhiều</string>
+    <string name="manage_topics">Quản lý chủ đề</string>
+
+    <!-- Settings Screen -->
+    <string name="settings">Cài đặt</string>
+    <string name="settings_title">Cài đặt &amp; Tiện ích</string>
+    <string name="section_appearance">GIAO DIỆN</string>
+    <string name="dark_mode">Chế độ tối</string>
+    <string name="dark_mode_desc">Chuyển đổi giao diện sáng và tối</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="language_desc">Chọn ngôn ngữ hiển thị</string>
+    <string name="choose_language_title">Chọn ngôn ngữ</string>
+    <string name="lang_vi">Tiếng Việt</string>
+    <string name="lang_en">English</string>
+    <string name="section_history">LỊCH SỬ</string>
+    <string name="clear_history">Xóa lịch sử</string>
+    <string name="clear_history_desc">Xóa các công thức đã xem gần đây</string>
+    <string name="clear_history_dialog_title">Xóa lịch sử</string>
+    <string name="clear_history_dialog_msg">Thao tác này sẽ xóa toàn bộ công thức đã xem gần đây. Tiếp tục?</string>
+    <string name="history_cleared">Đã xóa lịch sử</string>
+    <string name="section_management">QUẢN LÝ</string>
+    <string name="manage_topics_desc">Chỉnh sửa danh mục và các chủ đề</string>
+    <string name="section_about">THÔNG TIN</string>
+    <string name="about">Thông tin</string>
+    <string name="version_title">Phiên bản</string>
+    <string name="version_subtitle">Bản ổn định 1.0.0</string>
+    <string name="dev_team">Nhóm phát triển</string>
+    <string name="dev_team_name">Nhóm 7 (4 thành viên)</string>
+    <string name="footer_copyright">© 2026 Nhóm 7 - Phát triển ứng dụng di động</string>
+
+    <!-- Formula Detail Screen -->
+    <string name="formula_detail">Chi tiết công thức</string>
+    <string name="edit_formula">Sửa công thức</string>
+    <string name="btn_copy_formula">Sao chép công thức</string>
+    <string name="explanation_label">Giải thích chi tiết</string>
+    <string name="examples_label">Ví dụ minh họa</string>
+    <string name="copied_to_clipboard">✓ Đã sao chép vào bộ nhớ tạm</string>
+    <string name="delete_formula_dialog_title">Xóa công thức</string>
+    <string name="delete_formula_dialog_msg">Bạn có chắc muốn xóa \"%s\"? Hành động này không thể hoàn tác.</string>
+    <string name="formula_deleted">Đã xóa công thức</string>
+
+    <!-- AI Features -->
+    <string name="btn_ai_explain">✦ AI Giải thích</string>
+    <string name="btn_translate_code">⇄ Dịch Code</string>
+    <string name="btn_mock_interview">🎤 Phỏng vấn</string>
+    <string name="ai_analysis_title">✦ Phân tích AI</string>
+    <string name="btn_save_ai_note">Lưu vào ghi chú</string>
+    <string name="toast_saved_ai_note">✓ Đã lưu giải thích AI vào ghi chú</string>
+    <string name="ai_loading_explain">AI đang phân tích code...</string>
+    <string name="translate_dialog_title">⇄ Dịch code sang ngôn ngữ nào?</string>
+    <string name="translate_header_format">⇄ Dịch sang %s</string>
+    <string name="translate_loading_format">Đang dịch sang %s...</string>
+    <string name="toast_copied_translated">✓ Đã sao chép code đã dịch</string>
+    <string name="interview_mode_title">Chế độ Phỏng vấn thử</string>
+    <string name="interview_loading_questions">Đang tạo bộ câu hỏi...</string>
+    <string name="interview_questions_label">Câu hỏi phỏng vấn:</string>
+    <string name="interview_answer_label">Câu trả lời của bạn:</string>
+    <string name="interview_answer_hint">Nhập câu trả lời của bạn để AI chấm điểm...</string>
+    <string name="btn_submit_grade">📝 Nộp bài &amp; Chấm điểm</string>
+    <string name="interview_grading">Đang chấm điểm...</string>
+    <string name="interview_empty_answer">Hãy nhập câu trả lời trước!</string>
+    <string name="ready_to_answer">Sẵn sàng trả lời</string>
+    <string name="graded_success">Đã chấm điểm ✓</string>
+    <string name="no_code_content">Công thức này chưa có nội dung code</string>
+
+    <!-- Search Screen -->
+    <string name="search">Tìm kiếm</string>
+    <string name="search_title">Tìm kiếm công thức</string>
+    <string name="search_input_hint">Tìm kiếm công thức, cú pháp, từ khóa</string>
+    <string name="recent_searches">Lịch sử tìm kiếm</string>
+    <string name="no_results_title">Không tìm thấy kết quả</string>
+    <string name="no_results_desc">Thử tìm kiếm với từ khóa khác</string>
+
+    <!-- Favorites Screen -->
+    <string name="favorites">Yêu thích</string>
+    <string name="no_favorites_title">Chưa có mục yêu thích nào</string>
+    <string name="no_favorites_desc">Nhấn ★ trên công thức bất kỳ để lưu vào đây</string>
+    <string name="browse_formulas">Khám phá công thức</string>
+
+    <!-- Topic Screens -->
+    <string name="topic_detail">Chi tiết chủ đề</string>
+    <string name="formula_count">%d công thức</string>
+    <string name="created_prefix">Ngày tạo: %s</string>
+    <string name="chip_recent">Gần đây</string>
+    <string name="chip_favorites">★ Yêu thích</string>
+    <string name="no_formulas_title">Chưa có công thức nào</string>
+    <string name="no_formulas_desc">Nhấn + để thêm công thức đầu tiên</string>
+    <string name="delete_topic_title">Xóa chủ đề</string>
+    <string name="delete_topic_msg">Xóa \"%s\" sẽ đồng thời xóa TẤT CẢ công thức thuộc chủ đề này. Hành động này không thể hoàn tác.</string>
+    <string name="topic_deleted">Đã xóa chủ đề</string>
+    <string name="topic_created">Đã tạo chủ đề</string>
+    <string name="topic_updated">Đã cập nhật chủ đề</string>
+    <string name="no_topics_title">Chưa có chủ đề nào</string>
+    <string name="no_topics_desc">Nhấn + để tạo chủ đề đầu tiên</string>
+    <string name="add_topic">Thêm chủ đề</string>
+    <string name="edit_topic">Sửa chủ đề</string>
+    <string name="topic_name_hint">Tên chủ đề</string>
+    <string name="topic_name_required">Tên chủ đề không được để trống</string>
+
+    <!-- Add / Edit Formula -->
+    <string name="add_formula">Thêm công thức</string>
+    <string name="field_title">Tiêu đề</string>
+    <string name="field_category">Chủ đề</string>
+    <string name="field_code_logic">Mã nguồn / Logic</string>
+    <string name="hint_code">Nhập công thức/mã nguồn tại đây...</string>
+    <string name="field_explanation">Giải thích chi tiết</string>
+    <string name="field_examples">Ví dụ / Test Cases</string>
+    <string name="field_tags">Thẻ tags (phân cách bằng dấu phẩy)</string>
+    <string name="btn_save_formula">Lưu công thức</string>
+    <string name="title_required">Tiêu đề không được để trống</string>
+    <string name="content_required">Nội dung code không được để trống</string>
+    <string name="please_create_topic">Vui lòng tạo chủ đề trước</string>
+    <string name="formula_created">Đã tạo công thức!</string>
+    <string name="formula_updated">Đã cập nhật công thức!</string>
+</resources>

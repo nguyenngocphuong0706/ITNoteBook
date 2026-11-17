@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">IT Formula Notebook</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_history">History</string>
+
+    <!-- Common Actions -->
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="create">Create</string>
+    <string name="discard">Discard</string>
+    <string name="clear">Clear</string>
+    <string name="clear_all">Clear All</string>
+    <string name="copy">Copy</string>
+    <string name="see_all">See all</string>
+    <string name="version">v1.0</string>
+
+    <!-- Home Screen -->
+    <string name="home_dashboard">Home Dashboard</string>
+    <string name="search_formulas_hint">Search formulas, syntax, or keywords</string>
+    <string name="recently_viewed">Recently Viewed</string>
+    <string name="explore_topics">Topics</string>
+    <string name="no_recent_title">No recently viewed formulas</string>
+    <string name="no_recent_desc">Formulas you view will appear here</string>
+    <string name="heatmap_title">📊 Learning Activity</string>
+    <string name="heatmap_streak">%d day streak 🔥</string>
+    <string name="start_streak_today">Start your streak today! 🔥</string>
+    <string name="heatmap_less">Less</string>
+    <string name="heatmap_more">More</string>
+    <string name="manage_topics">Manage Topics</string>
+
+    <!-- Settings Screen -->
+    <string name="settings">Settings</string>
+    <string name="settings_title">Settings &amp; Utilities</string>
+    <string name="section_appearance">APPEARANCE</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_desc">Switch between light and dark themes</string>
+    <string name="language">Language</string>
+    <string name="language_desc">Select display language</string>
+    <string name="choose_language_title">Select Language</string>
+    <string name="lang_vi">Tiếng Việt</string>
+    <string name="lang_en">English</string>
+    <string name="section_history">HISTORY</string>
+    <string name="clear_history">Clear History</string>
+    <string name="clear_history_desc">Remove your recently viewed formulas</string>
+    <string name="clear_history_dialog_title">Clear History</string>
+    <string name="clear_history_dialog_msg">This will clear all recently viewed formulas. Continue?</string>
+    <string name="history_cleared">History cleared</string>
+    <string name="section_management">MANAGEMENT</string>
+    <string name="manage_topics_desc">Edit notebook taxonomy and categories</string>
+    <string name="section_about">ABOUT</string>
+    <string name="about">About</string>
+    <string name="version_title">Version</string>
+    <string name="version_subtitle">1.0.0 Stable Build</string>
+    <string name="dev_team">Development Team</string>
+    <string name="dev_team_name">Team 7 (4 members)</string>
+    <string name="footer_copyright">© 2026 Team 7 - Mobile Application Development</string>
+
+    <!-- Formula Detail Screen -->
+    <string name="formula_detail">Formula Detail</string>
+    <string name="edit_formula">Edit Formula</string>
+    <string name="btn_copy_formula">Copy Formula</string>
+    <string name="explanation_label">Explanation</string>
+    <string name="examples_label">Examples</string>
+    <string name="copied_to_clipboard">✓ Copied to clipboard</string>
+    <string name="delete_formula_dialog_title">Delete Formula</string>
+    <string name="delete_formula_dialog_msg">Are you sure you want to delete \"%s\"? This action cannot be undone.</string>
+    <string name="formula_deleted">Formula deleted</string>
+
+    <!-- AI Features -->
+    <string name="btn_ai_explain">✦ AI Explain</string>
+    <string name="btn_translate_code">⇄ Translate Code</string>
+    <string name="btn_mock_interview">🎤 Mock Interview</string>
+    <string name="ai_analysis_title">✦ AI Analysis</string>
+    <string name="btn_save_ai_note">Save to Note</string>
+    <string name="toast_saved_ai_note">✓ Saved AI explanation to note</string>
+    <string name="ai_loading_explain">AI is analyzing code...</string>
+    <string name="translate_dialog_title">⇄ Translate code to which language?</string>
+    <string name="translate_header_format">⇄ Translate to %s</string>
+    <string name="translate_loading_format">Translating to %s...</string>
+    <string name="toast_copied_translated">✓ Copied translated code</string>
+    <string name="interview_mode_title">Mock Interview Mode</string>
+    <string name="interview_loading_questions">Generating questions...</string>
+    <string name="interview_questions_label">Interview Questions:</string>
+    <string name="interview_answer_label">Your Answer:</string>
+    <string name="interview_answer_hint">Enter your answer to submit for AI grading...</string>
+    <string name="btn_submit_grade">📝 Submit &amp; Grade</string>
+    <string name="interview_grading">Grading...</string>
+    <string name="interview_empty_answer">Please enter your answer first!</string>
+    <string name="ready_to_answer">Ready for your answer</string>
+    <string name="graded_success">Graded ✓</string>
+    <string name="no_code_content">This formula does not contain code</string>
+
+    <!-- Search Screen -->
+    <string name="search">Search</string>
+    <string name="search_title">Search Formulas</string>
+    <string name="search_input_hint">Search formulas, syntax, or keywords</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="no_results_title">No results found</string>
+    <string name="no_results_desc">Try different keywords</string>
+
+    <!-- Favorites Screen -->
+    <string name="favorites">Favorites</string>
+    <string name="no_favorites_title">No favorites yet</string>
+    <string name="no_favorites_desc">Tap the ★ on any formula to save it here</string>
+    <string name="browse_formulas">Browse Formulas</string>
+
+    <!-- Topic Screens -->
+    <string name="topic_detail">Topic Detail</string>
+    <string name="formula_count">%d formulas</string>
+    <string name="created_prefix">Created: %s</string>
+    <string name="chip_recent">Recent</string>
+    <string name="chip_favorites">★ Favorites</string>
+    <string name="no_formulas_title">No formulas yet</string>
+    <string name="no_formulas_desc">Tap + to add your first formula</string>
+    <string name="delete_topic_title">Delete Topic</string>
+    <string name="delete_topic_msg">Deleting \"%s\" will also remove ALL formulas in this topic. This action cannot be undone.</string>
+    <string name="topic_deleted">Topic deleted</string>
+    <string name="topic_created">Topic created</string>
+    <string name="topic_updated">Topic updated</string>
+    <string name="no_topics_title">No topics yet</string>
+    <string name="no_topics_desc">Tap + to create your first topic</string>
+    <string name="add_topic">Add Topic</string>
+    <string name="edit_topic">Edit Topic</string>
+    <string name="topic_name_hint">Topic name</string>
+    <string name="topic_name_required">Topic name is required</string>
+
+    <!-- Add / Edit Formula -->
+    <string name="add_formula">Add Formula</string>
+    <string name="field_title">Title</string>
+    <string name="field_category">Category</string>
+    <string name="field_code_logic">Code / Logic</string>
+    <string name="hint_code">Enter your formula here...</string>
+    <string name="field_explanation">Detailed Explanation</string>
+    <string name="field_examples">Examples / Test Cases</string>
+    <string name="field_tags">Tags (comma-separated)</string>
+    <string name="btn_save_formula">Save Formula</string>
+    <string name="title_required">Title is required</string>
+    <string name="content_required">Content is required</string>
+    <string name="please_create_topic">Please create a topic first</string>
+    <string name="formula_created">Formula created!</string>
+    <string name="formula_updated">Formula updated!</string>
+</resources>

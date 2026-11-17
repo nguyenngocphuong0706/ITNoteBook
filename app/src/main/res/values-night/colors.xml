@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">#FF101022</color>
+    <color name="colorSurface">#FF1B1F3A</color>
+    <color name="colorSurfaceCode">#FF1E1B2E</color>
+    <color name="colorTextPrimary">#FFFFFFFF</color>
+    <color name="colorTextSecondary">#FF9292C9</color>
+    <color name="colorTextHint">#FF8890B5</color>
+    <color name="colorTextCode">#FFA8B4FF</color>
+    <color name="colorIconInactive">#FF9AA0C4</color>
+    <color name="colorChipBackground">#FF232348</color>
+    <color name="colorStatusBar">#FF101022</color>
+
+    <!-- GitHub Contribution Heatmap (Dark Mode) -->
+    <color name="heatmap_level_0">#1F2430</color>
+    <color name="heatmap_level_1">#0E4429</color>
+    <color name="heatmap_level_2">#006D32</color>
+    <color name="heatmap_level_3">#26A641</color>
+    <color name="heatmap_level_4">#39D353</color>
+</resources>

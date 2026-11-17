@@ -1,0 +1,18 @@
+===================================================================
+DỰ ÁN: IT NOTEBOOK - NHÓM 7 (PHÁT TRIỂN ỨNG DỤNG DI ĐỘNG)
+===================================================================
+
+TRONG THƯ MỤC NÀY BAO GỒM TẤT CẢ CÁC TÀI NGUYÊN ĐỂ CẢ NHÓM SỬ DỤNG ĐỒNG BỘ:
+
+1. Thư mục [Cai_Dat_APK]:
+   - Chứa file `app-debug.apk`. 
+   - Dùng để gửi trực tiếp cho các bạn cài thử lên điện thoại Android ngay mà không cần mở máy tính hay build lại code.
+
+2. Thư mục [Tai_Lieu_Bao_Cao]:
+   - File Word báo cáo bài tập lớn (`Bao_Cao_BTL_ITNoteBook_Nhom7.docx`).
+   - File `Biểu mẫu đánh giá.docx`.
+
+3. Thư mục mã nguồn Android Studio (Code):
+   - Mở Android Studio -> File -> Open -> Chọn thư mục Nhom7_ITNoteBook.
+   - Code đã dọn sạch cache, hỗ trợ cả tiếng Anh và tiếng Việt, 10 ngôn ngữ lập trình, tích hợp AI Groq và Room Database.
+===================================================================

@@ -1,0 +1,4 @@
+## Cấu hình SDK và API Key cho máy cá nhân
+## Sao chép file này thành local.properties
+sdk.dir=C\:\\Users\\Admin\\AppData\\Local\\Android\\Sdk
+GROQ_API_KEY=your_groq_api_key_here
